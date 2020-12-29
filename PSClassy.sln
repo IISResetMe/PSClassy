@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSClassy.Core", "PSClassy.Core\PSClassy.Core.csproj", "{8A001E63-517D-4308-93E2-CF4F492D1177}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSClassy.Cmdlets", "PSClassy.Cmdlets\PSClassy.Cmdlets.csproj", "{3DF89CFD-1C7E-4392-879C-DA476BF90DE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A001E63-517D-4308-93E2-CF4F492D1177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A001E63-517D-4308-93E2-CF4F492D1177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A001E63-517D-4308-93E2-CF4F492D1177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A001E63-517D-4308-93E2-CF4F492D1177}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF89CFD-1C7E-4392-879C-DA476BF90DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF89CFD-1C7E-4392-879C-DA476BF90DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF89CFD-1C7E-4392-879C-DA476BF90DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF89CFD-1C7E-4392-879C-DA476BF90DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B41D4A-C050-4676-A7F3-67CECC6CE6E4}
+	EndGlobalSection
+EndGlobal
